@@ -8,5 +8,5 @@
 	- cons 
 		1. only works in browser, shortcat can work outside of browser 
 
-## vim for on computer
+## vim for computer
 1. shortcat
