@@ -16,3 +16,8 @@
 ## vim when youre typing
 1. VimMode.Spoon
 	- https://github.com/dbalatero/VimMode.spoon 
+
+## battery optimzer
+1. set charge limit
+	- https://apple.stackexchange.com/questions/406957/can-i-tell-my-mac-to-charge-to-80-only
+	- https://github.com/zackelia/bclm 
